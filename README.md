@@ -1,4 +1,4 @@
-# Django Twitter Clone by Redian Marku
+# Django Twitter Clone by Yosef Emiru
 
 Fully functional Django App that looks ecxatly like real Twitter.
 
@@ -41,6 +41,4 @@ Fully functional Django App that looks ecxatly like real Twitter.
 7. Run app localy with: ```python manage.py runserver```.
 
 
-# poikjn
-# Twitter-clone
-# Twitter_clone_with_Django
+
